@@ -4,7 +4,7 @@ import { User, Booking, UserRole } from '../types';
 // สำคัญมาก! โปรดนำ URL ของ Web App ที่ได้จากการ Deploy ในขั้นตอนที่ 2 มาวางที่นี่
 // IMPORTANT! Paste your deployed Google Apps Script Web App URL here.
 // ===================================================================================
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxJ63RFmuy7W1rbz4Iy-vO9a6-hXkTPT_DlRAcFvrAUr0RSWQZhcWKkxgs6Zymg-4BJMg/exec'; 
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxJ63RFmuy7W1rbz4Iy-vO9a6-hXkTPT_DlRAcFvrAUr0RSWQZhcWKkxgs6Zymg-4BJMg/exec';
 // ===================================================================================
 
 
